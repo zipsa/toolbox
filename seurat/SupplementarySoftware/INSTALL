@@ -1,0 +1,17 @@
+# Installation instructions
+
+1. Unpack the provided file (Seurat_2.2.0.tar.gz). Please note the directory where the contents are placed (for example : "~/Downloads/Seurat")
+
+2. In R, install the devtools package 
+
+  install.packages("devtools")
+
+3. In R or RStudio : run
+
+  devtools::install("~/Downloads/Seurat")
+     
+4. Load the Seurat package
+
+  library(Seurat)
+
+

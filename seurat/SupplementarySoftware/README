@@ -1,0 +1,11 @@
+=============================================================================================
+This archive contains the software, installation instructions, and integration workflows for 
+two examples. 
+=============================================================================================
+Description of contents
+* Seurat_2.2.0.tar.gz          Seurat R package software used for scRNA-seq analyses
+* INSTALL                      installation instructions for Seurat
+* immune_workflow              command list for integration of IFNB stimulated and control 
+                               PBMCs
+* multiple_pancreas_workflow   command list for integration of four pancreatic 
+                               islet datasets produced using different technologies 
